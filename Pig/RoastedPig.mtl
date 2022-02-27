@@ -1,0 +1,48 @@
+# Blender MTL File: 'MilliesBlend.blend'
+# Material Count: 4
+
+newmtl 01_-_Default
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:\\Projects\\GameJams\\AgoraJam\\uploads_files_1824386_T_Plate\\T_Plate_BC.png
+map_Ns D:\\Projects\\GameJams\\AgoraJam\\uploads_files_1824386_T_Plate\\T_Plate_OR.png
+
+newmtl Apple
+Ns 18.000005
+Ka 0.050000 0.050000 0.050000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:\\Projects\\GameJams\\AgoraJam\\Apple_FBX\\Apple_FBX\\Apple_BaseColor.png
+map_Ns D:\\Projects\\GameJams\\AgoraJam\\Apple_FBX\\Apple_FBX\\Apple_Normal.png
+
+newmtl Material.002
+Ns 671.281009
+Ka 0.590909 0.590909 0.590909
+Kd 0.139815 0.139815 0.139815
+Ks 0.450000 0.450000 0.450000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl lambert1
+Ns 490.342571
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Projects\\GameJams\\AgoraJam\\pig\\PigTextures\\RoastedPiggy\\PigLP_PiggyRoasted_BaseColor.png
+refl D:\\Projects\\GameJams\\AgoraJam\\pig\\PigTextures\\RoastedPiggy\\PigLP_PiggyRoasted_Metallic.png
